@@ -1,0 +1,51 @@
+header{
+            background-color: magenta;
+            align-items: flex-start;
+            justify-content: space-around;
+            display: flex;
+            height: 10rem;
+            }
+        
+        Home{
+            font-weight: initial;
+            font-family: 'Trebuchet MS';
+            }
+
+        .list li{
+            display: inline-block;
+            padding: 2px;
+            margin:inherit;
+            }
+
+        .list {
+            font-family: 50px;
+            padding: 2px;
+            box-sizing: border-box;
+            }
+        header{
+            font-weight: 600;
+            font-family:'Bitter', serif;
+            /* background-image: url("use.jpg"); */
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            }
+
+        section{
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+       
+       .section p{
+           display:inline-flex;
+           justify-content: space-around;
+           
+       }
+       .beside{
+           height: 50vh;
+           min-width: 10vh;
+           font-size: 15px;
+           align-items: center;
+           display: flex;
+           image-resolution: 500px;
